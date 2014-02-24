@@ -1,8 +1,12 @@
 inherit kde4
 
 NAME="kde-l10n-bg"
-VERSION=4.10.5
+VERSION=4.11.5
 RELEASE=1
 CATEGORY="KDE"
 SUMMARY="KDE Bulgarian translation files"
 DESCRIPTION="KDE Bulgarian translation files"
+
+ARCH=noarch
+
+ARCH=noarch
